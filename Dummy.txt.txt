@@ -1,0 +1,2 @@
+Now let us create a dummy text document in our project folder e.g. dummy.txt and write some text and save it
+Now if I check the status It is saying untracked files, so we need to commit these changes in my git project 
