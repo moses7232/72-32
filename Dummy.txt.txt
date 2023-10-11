@@ -1,3 +1,2 @@
 Hello welcome to Git.
 Introduction to Git.
-Hello
